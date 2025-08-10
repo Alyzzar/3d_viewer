@@ -37,13 +37,9 @@ This will open a window displaying the 3D wireframe models. You can interact wit
 
 ## Components
 
-- **Viewer**: The `viewer.py` file initializes the 3D rendering context and handles user interactions.
+- **Viewer**: The `view_render.py` file initializes the 3D rendering context and handles user interactions. The 'view_control.py' file handles the viewers UI and controls.
 - **IK Simulation**: The `ik_simulation.py` file contains the logic for simulating inverse kinematics, allowing for dynamic motion of models.
 - **Wireframe Models**: The `wireframe.py` file defines the structures and methods for creating and manipulating wireframe geometries.
-
-## Contributing
-
-Contributions are welcome! Please submit a pull request or open an issue for any enhancements or bug fixes.
 
 ## License
 
