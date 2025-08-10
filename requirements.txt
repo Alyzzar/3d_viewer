@@ -1,0 +1,4 @@
+PyOpenGL
+Pygame
+numpy
+matplotlib
